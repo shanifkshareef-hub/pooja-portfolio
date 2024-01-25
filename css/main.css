@@ -3063,7 +3063,7 @@ hr {
 .experience-carousel .slide-titles .title {
   margin-bottom: 10px;
   font-family: "Yeseva One";
-  font-size: 152px;
+  font-size: 60px;
   line-height: 1;
   font-weight: 400;
 }
@@ -6346,7 +6346,7 @@ a.wp-block-button__link {
     font-size: 16px;
   }
   .experience-carousel .slide-titles .title {
-    font-size: 50px;
+    font-size: 30px;
   }
   .section.m-experience.m-process {
     margin: 50px 0 100px 0;
