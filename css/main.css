@@ -6353,6 +6353,10 @@ a.wp-block-button__link {
     line-height: 36px;
   }
   /*quote*/
+  .experience-carousel .slides-ex-items__image {
+    left: 0;
+    width: 100%;
+  }
   .quote-box {
     padding-top: 112px;
   }
