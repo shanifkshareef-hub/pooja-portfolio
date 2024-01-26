@@ -103,6 +103,12 @@ body.no-scroll {
   overflow: hidden;
 }
 
+/* //custom */
+.contact-section{
+  background: black;
+  margin-bottom: 0px !important;
+}
+
 a {
   color: #eb6165;
   text-decoration: none;
